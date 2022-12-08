@@ -1,3 +1,0 @@
-class
-  puts "Greeting !!!!"
-end
