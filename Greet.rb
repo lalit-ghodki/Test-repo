@@ -1,3 +1,3 @@
 class
-  puts "Greeting !!!"
+  puts "Greeting !!"
 end
