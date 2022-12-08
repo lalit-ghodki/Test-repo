@@ -1,0 +1,3 @@
+class
+  puts "Greeting !!"
+end
